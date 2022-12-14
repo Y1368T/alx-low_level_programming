@@ -1,1 +1,1 @@
-My C programming begins today
+c programming
